@@ -26,6 +26,9 @@
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: abhinav, at: Sat May 20 17:29:13 IST 2023 -->
 
+## Demo
+[![demo](https://asciinema.org/a/586124.svg)](https://asciinema.org/a/586124?autoplay=1&speed=2)
+
 <!--te-->
 ## Description **📚**
 
