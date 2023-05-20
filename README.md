@@ -4,6 +4,26 @@
 <p align="center">
   <img src="./assets/book-recommender.jpg" width="300" height="300"/>
 </p>
+## tl;dr
+
+> You give your favorite books, the script fetches books information such as title, genres, and synopsis. All this info is passed to ChatGPT using a prompt template to get the book recommendations.
+
+<!--ts-->
+* [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>AI Book Recommender](#-ai-book-recommender)
+   * [Description](#description)
+   * [Usage <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>](#usage-️)
+      * [Requirements](#requirements)
+      * [Getting Started <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>](#getting-started-)
+   * [Configuration <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji>](#configuration-️)
+   * [Contributing <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>](#contributing-)
+   * [License <g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji>](#license-)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: abhinav, at: Sat May 20 17:22:47 IST 2023 -->
+
+<!--te-->
+## Description
+
 The AI Book Recommender 🤖📚 works by interacting with two main components: Goodreads 📖 for fetching book data, and OpenAI's ChatGPT 🧠 for generating recommendations.
 
    - **Goodreads 📖:** We're using Goodreads to fetch details about your favorite books 📚, including the book title 🏷️, author 🖋️, genres 🏷️, and synopsis 📝. The script then extracts this data and uses it to generate personalized book recommendations 🎯.

@@ -179,3 +179,5 @@ config.toml
 logs
 main.ipynb
 temp.**
+README.md.**
+gh-md-toc
