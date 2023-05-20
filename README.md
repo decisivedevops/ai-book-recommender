@@ -30,7 +30,7 @@
 <!--te-->
 
 ## Demo 🎥
-<a href="https://asciinema.org/a/586124?autoplay=1&speed=2"><img src="https://asciinema.org/a/586124.png" width="836"/></a>
+![Demo](assets/demo.gif)
 
 
 ## Description **📚**
