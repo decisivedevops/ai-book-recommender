@@ -1,12 +1,9 @@
-
 <p align="center">
     <h1 align="center">📚💡 AI Book Recommender</h1>
 </p>
 <p align="center">
   <img src="./assets/book-recommender.jpg" width="300" height="300"/>
 </p>
----
-
 The AI Book Recommender 🤖📚 works by interacting with two main components: Goodreads 📖 for fetching book data, and OpenAI's ChatGPT 🧠 for generating recommendations.
 
    - **Goodreads 📖:** We're using Goodreads to fetch details about your favorite books 📚, including the book title 🏷️, author 🖋️, genres 🏷️, and synopsis 📝. The script then extracts this data and uses it to generate personalized book recommendations 🎯.
