@@ -27,7 +27,7 @@
 <!-- Added by: abhinav, at: Sat May 20 17:29:13 IST 2023 -->
 
 ## Demo
-[![demo](https://asciinema.org/a/586124.svg)](https://asciinema.org/a/586124?autoplay=1&speed=2)
+<a href="https://asciinema.org/a/586124?autoplay=1&speed=2"><img src="https://asciinema.org/a/586124.png" width="836"/></a>
 
 <!--te-->
 ## Description **📚**
