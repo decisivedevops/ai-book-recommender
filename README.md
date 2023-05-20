@@ -4,6 +4,8 @@
 <p align="center">
   <img src="./assets/book-recommender.jpg" width="300" height="300"/>
 </p>
+
+
 ## tl;dr
 
 > You give your favorite books, the script fetches books information such as title, genres, and synopsis. All this info is passed to ChatGPT using a prompt template to get the book recommendations.
