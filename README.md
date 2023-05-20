@@ -15,6 +15,7 @@
 * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>AI Book Recommender](#-ai-book-recommender)
    * [tl;dr <strong><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji></strong>](#tldr-)
    * [Table of Contents <strong><g-emoji class="g-emoji" alias="card_index_dividers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png">🗂️</g-emoji></strong>](#table-of-contents-️)
+   * [Demo <g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji>](#demo-)
    * [Description <strong><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji></strong>](#description-)
    * [Usage <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>](#usage-️)
       * [Requirements <strong><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji></strong>](#requirements-️)
@@ -24,12 +25,14 @@
    * [License <g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji>](#license-)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: abhinav, at: Sat May 20 17:29:13 IST 2023 -->
-
-## Demo
-<a href="https://asciinema.org/a/586124?autoplay=1&speed=2"><img src="https://asciinema.org/a/586124.png" width="836"/></a>
+<!-- Added by: abhinav, at: Sat May 20 18:13:47 IST 2023 -->
 
 <!--te-->
+
+## Demo 🎥
+<a href="https://asciinema.org/a/586124?autoplay=1&speed=2"><img src="https://asciinema.org/a/586124.png" width="836"/></a>
+
+
 ## Description **📚**
 
 The AI Book Recommender 🤖📚 works by interacting with two main components: Goodreads 📖 for fetching book data, and OpenAI's ChatGPT 🧠 for generating recommendations.
